@@ -1,0 +1,11 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    .AnchorPane{
+       background-color: #00ff33;
+        
+    }
+    
+}
